@@ -7,3 +7,5 @@
 -fix-B
 SOME TESTS
 >>>>>>> fix-B
+
+-feature-C
